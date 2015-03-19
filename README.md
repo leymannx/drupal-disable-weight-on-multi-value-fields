@@ -1,4 +1,4 @@
-# Disable weight option for multi value fields for Drupal 7
+# Disable weight option for multi value fields in Drupal 7
 
 This module isn't writte by me. Brad Czerniak did it and shared the code:
 http://www.commercialprogression.com/post/how-remove-tabledrag-rearranging-multiple-value-field-widgets
