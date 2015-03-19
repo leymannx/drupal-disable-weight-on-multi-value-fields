@@ -148,7 +148,7 @@ function multi_widget_remove_tabledrag_theme_field_multiple_value_form($variable
 function multi_widget_remove_tabledrag_field_widget_form_alter(&$element, &$form_state, $context) {
   if (isset($element['#field_name'])) {
     switch ($element['#field_name']) {
-      case 'personality_test_results':
+      case 'field_FIELD_NAME_HERE':
         $element['#nodrag'] = TRUE;
       default:
         break;
